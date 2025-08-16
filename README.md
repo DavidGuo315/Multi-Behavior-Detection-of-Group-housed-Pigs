@@ -1,4 +1,5 @@
 # Multi-Behavior-Detection-of-Group-housed-Pigs
-# After the paper has been published, a download link to the open source dataset will be placed in this repository.
 
-#please email at 2024710754@yangtzeu.edu.cn
+#To find the dataset used in this study, please make sure all files are downloaded from:[https://pan.baidu.com/s/1-QBSBUe3i67AgHKboKI8XQ](https://pan.baidu.com/s/1LY9hGnxJUQnOf7AT_vd9FA)
+
+#Extraction code: please email at 2024710754@yangtzeu.edu.cn
